@@ -16,7 +16,7 @@ if not os.path.exists(output_file) or os.path.getsize(output_file) > 0:
         f.write(BeautifulSoup(r.content, 'html.parser').prettify())
 
 # cookies issue workaround, too many requests makes the website not accept others
-# html page can be copied from browser to this file
+# html page can be copied from browser to this filelq
 with open(f'./data/content-{properties["year"]}.html', 'rb') as f:
     soup = BeautifulSoup(f, 'html.parser')
 
