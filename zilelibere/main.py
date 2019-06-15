@@ -37,7 +37,7 @@ for tr in even + odd:
 
     dates.append([f'{string_day if int(string_day) >= 10 else "0%s" % string_day}',
                   f'{month if int(month) >= 10 else "0%s" % month}',
-                  f'Zi libera: "{event_name}"'])
+                  f'Government Holiday: "{event_name}"'])
 
 print(dates)
 with open('./data/dates.txt', 'wb') as f:
