@@ -5,17 +5,15 @@ from ics import Calendar, Event
 import json
 
 with open("./properties/months.json") as f:
-    months_dict = json.load(f)
+    properties = json.load(f)
 
-# with open('./data/content.html', 'r') as f:
-#     if not f:
-        # r = requests.get('https://publicholidays.ro/ro/2019-dates/')
-        # with open('./content.html', 'w') as f:
-        #     f.write(r.content)
+r = requests.get(f'{properties["url"]}{properties["year"]}-dates/')
+with open(f'./data/content-{properties["year"]}.html', 'w', encoding="utf-8") as f:
+    f.write(BeautifulSoup(r.content, 'html.parser').prettify())
 
 # cookies issue workaround, too many requests makes the website not accept others
 # html page can be copied from browser to this file
-with open('./data/html.xml', 'rb') as f:
+with open(f'./data/content-{properties["year"]}.html', 'rb') as f:
     soup = BeautifulSoup(f, 'html.parser')
 
 tbody = soup.find_all("table", class_="publicholidays")[0].find_all("tbody")[0]
@@ -33,7 +31,7 @@ for tr in even + odd:
 
     string_day = date.split(" ")[0]
     string_month = date.split(" ")[1]
-    month = months_dict[f'{string_month}']
+    month = properties["months"][f'{string_month}']
 
     dates.append([f'{string_day if int(string_day) >= 10 else "0%s" % string_day}',
                   f'{month if int(month) >= 10 else "0%s" % month}',
@@ -53,8 +51,6 @@ for el in dates:
     e.begin = f'2019{el[1]}{el[0]} 00:00:00'
     e.make_all_day()
     c.events.add(e)
-
-c.events
 
 with open('./data/zilelibere.ics', 'w', encoding="utf-8") as f:
     f.writelines(c)
