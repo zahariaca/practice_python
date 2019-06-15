@@ -1,0 +1,149 @@
+b'[
+<table class="publicholidays phgtable">
+    <thead>
+        <tr>
+            <th>Data</th>
+            <th>Zi</th>
+            <th>S\xc4\x83rb\xc4\x83tori legale</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="even">
+            <td>1 ianuarie</td>
+            <td>mar\xc5\xa3i</td>
+            <td>
+                <span class="summary">Anul Nou</span>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td>2 ianuarie</td>
+            <td>miercuri</td>
+            <td>
+                <span class="summary">A doua zi dup\xc4\x83 Anul Nou</span>
+            </td>
+        </tr>
+        <tr class="even">
+            <td>24 ianuarie</td>
+            <td>joi</td>
+            <td>
+                <a class="summary url" href="https://publicholidays.ro/ro/union-romanian-principalities/">Ziua Unirii
+                    Principatelor Rom\xc3\xa2niei
+                </a>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td>26 aprilie</td>
+            <td>vineri</td>
+            <td>
+                <a class="summary url" href="https://publicholidays.ro/ro/easter/">Vinerea Mare</a>
+            </td>
+        </tr>
+        <tr class="even">
+            <td>28 aprilie</td>
+            <td>duminic\xc4\x83</td>
+            <td>
+                <a class="summary url" href="https://publicholidays.ro/ro/easter/">Pa\xc8\x99te ortodox</a>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td>29 aprilie</td>
+            <td>luni</td>
+            <td>
+                <a class="summary url" href="https://publicholidays.ro/ro/easter/">A doua zi de Pa\xc8\x99te ortodox</a>
+            </td>
+        </tr>
+        <tr class="even">
+            <td>1 mai</td>
+            <td>miercuri</td>
+            <td>
+                <span class="summary">Ziua Muncii</span>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td>1 iunie</td>
+            <td>s\xc3\xa2mb\xc4\x83t\xc4\x83</td>
+            <td>
+                <span class="summary">Ziua Copilului</span>
+            </td>
+        </tr>
+        <tr>
+            <td class="adunit" colspan="3"><script type="text/javascript">\n jQuery(document).ready(function() {\n if
+                (typeof Foundation.MediaQuery.current == "undefined") {\n Foundation.MediaQuery._init();\n }\n if
+                (Foundation.MediaQuery.current == "small") {\n // Output the mobile ad code\n
+                jQuery("#phgadunit_74382").html("<div id=
+                \\"phg-ad-g-m-table-medium-rectangle-1\\"><!-- G M Table Medium Rectangle 1 -->\\r\\n<ins class=
+                \\"adsbygoogle\\"\\r\\n style=\\"display:inline-block;width:300px;height:250px\\"\\r\\n
+                data-ad-client=\\"ca-pub-0348020478450287\\"\\r\\n data-ad-slot=\\"7922552518\\"><\\/ins>\\r\\n<script>
+                \\r\\n(adsbygoogle = window.adsbygoogle || []).push({});\\r\\n<\\/script><\\/div>");\n } else if
+                (Foundation.MediaQuery.current == "medium") {\n // Output the tablet ad code\n
+                jQuery("#phgadunit_74382").html("<div id=
+                \\"phg-ad-g-m-table-medium-rectangle-1\\"><!-- G M Table Medium Rectangle 1 -->\\r\\n<ins class=
+                \\"adsbygoogle\\"\\r\\n style=\\"display:inline-block;width:300px;height:250px\\"\\r\\n
+                data-ad-client=\\"ca-pub-0348020478450287\\"\\r\\n data-ad-slot=\\"7922552518\\"><\\/ins>\\r\\n<script>
+                \\r\\n(adsbygoogle = window.adsbygoogle || []).push({});\\r\\n<\\/script><\\/div>");\n } else {\n //
+                Output the regular ad code\n jQuery("#phgadunit_74382").html("<div id=
+                \\"phg-ad-g-d-table-medium-rectangle-1\\"><!-- G D Table Medium Rectangle 1 -->\\r\\n<ins class=
+                \\"adsbygoogle\\"\\r\\n style=\\"display:inline-block;width:300px;height:250px\\"\\r\\n
+                data-ad-client=\\"ca-pub-0348020478450287\\"\\r\\n data-ad-slot=\\"9962871424\\"><\\/ins>\\r\\n
+                <script>\\r\\n(adsbygoogle = window.adsbygoogle || []).push({});\\r\\n<\\/script><\\/div>");\n }\n });\n
+                </script>
+                \n
+                <div id="phgadunit_74382"></div>
+            </td>
+        </tr>
+        <tr class="even">
+            <td>16 iunie</td>
+            <td>duminic\xc4\x83</td>
+            <td>
+                <a class="summary url" href="https://publicholidays.ro/ro/pentecost/">Rusalii</a>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td>17 iunie</td>
+            <td>luni</td>
+            <td>
+                <a class="summary url" href="https://publicholidays.ro/ro/pentecost/">A doua zi de Rusalii</a>
+            </td>
+        </tr>
+        <tr class="even">
+            <td>15 august</td>
+            <td>joi</td>
+            <td>
+                <a class="summary url" href="https://publicholidays.ro/ro/assumption-day/">Adormirea Maicii Domnului</a>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td>30 noiembrie</td>
+            <td>s\xc3\xa2mb\xc4\x83t\xc4\x83</td>
+            <td>
+                <a class="summary url" href="https://publicholidays.ro/ro/feast-of-saint-andrew/">Sf\xc3\xa2ntul
+                    Andrei
+                </a>
+            </td>
+        </tr>
+        <tr class="even">
+            <td>1 decembrie</td>
+            <td>duminic\xc4\x83</td>
+            <td>
+                <a class="summary url" href="https://publicholidays.ro/ro/great-union-day/">Ziua Marii Uniri</a>
+            </td>
+        </tr>
+        <tr class="odd">
+            <td>25 decembrie</td>
+            <td>miercuri</td>
+            <td>
+                <a class="summary url" href="https://publicholidays.ro/ro/christmas/">Cr\xc4\x83ciunul</a>
+            </td>
+        </tr>
+        <tr class="even">
+            <td>26 decembrie</td>
+            <td>joi</td>
+            <td>
+                <a class="summary url" href="https://publicholidays.ro/ro/christmas/">A doua zi de Cr\xc4\x83ciunul</a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3"></td>
+        </tr>
+    </tbody>
+</table>]'

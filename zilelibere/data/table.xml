@@ -1,0 +1,268 @@
+[
+<table class="publicholidays phgtable">
+ <thead>
+  <tr>
+   <th>
+    Data
+   </th>
+   <th>
+    Zi
+   </th>
+   <th>
+    Sărbători legale
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr class="even">
+   <td>
+    1 ianuarie
+   </td>
+   <td>
+    marţi
+   </td>
+   <td>
+    <span class="summary">
+     Anul Nou
+    </span>
+   </td>
+  </tr>
+  <tr class="odd">
+   <td>
+    2 ianuarie
+   </td>
+   <td>
+    miercuri
+   </td>
+   <td>
+    <span class="summary">
+     A doua zi după Anul Nou
+    </span>
+   </td>
+  </tr>
+  <tr class="even">
+   <td>
+    24 ianuarie
+   </td>
+   <td>
+    joi
+   </td>
+   <td>
+    <a class="summary url" href="https://publicholidays.ro/ro/union-romanian-principalities/">
+     Ziua Unirii Principatelor României
+    </a>
+   </td>
+  </tr>
+  <tr class="odd">
+   <td>
+    26 aprilie
+   </td>
+   <td>
+    vineri
+   </td>
+   <td>
+    <a class="summary url" href="https://publicholidays.ro/ro/easter/">
+     Vinerea Mare
+    </a>
+   </td>
+  </tr>
+  <tr class="even">
+   <td>
+    28 aprilie
+   </td>
+   <td>
+    duminică
+   </td>
+   <td>
+    <a class="summary url" href="https://publicholidays.ro/ro/easter/">
+     Paște ortodox
+    </a>
+   </td>
+  </tr>
+  <tr class="odd">
+   <td>
+    29 aprilie
+   </td>
+   <td>
+    luni
+   </td>
+   <td>
+    <a class="summary url" href="https://publicholidays.ro/ro/easter/">
+     A doua zi de Paște ortodox
+    </a>
+   </td>
+  </tr>
+  <tr class="even">
+   <td>
+    1 mai
+   </td>
+   <td>
+    miercuri
+   </td>
+   <td>
+    <span class="summary">
+     Ziua Muncii
+    </span>
+   </td>
+  </tr>
+  <tr class="odd">
+   <td>
+    1 iunie
+   </td>
+   <td>
+    sâmbătă
+   </td>
+   <td>
+    <span class="summary">
+     Ziua Copilului
+    </span>
+   </td>
+  </tr>
+  <tr>
+   <td class="adunit" colspan="3">
+    <script type="text/javascript">
+     jQuery(document).ready(function() {
+                                                        if (typeof Foundation.MediaQuery.current == "undefined") {
+                                                        Foundation.MediaQuery._init();
+                                                        }
+                                                        if (Foundation.MediaQuery.current == "small") {
+                                                        // Output the mobile ad code
+                                                        jQuery("#phgadunit_14726").html("<div id=
+                                                        \"phg-ad-g-m-table-medium-rectangle-1\"><!-- G M Table Medium Rectangle 1 -->
+                                                        \r\n<ins class=\"adsbygoogle\"\r\n
+                                                        style=\"display:inline-block;width:300px;height:250px\"\r\n
+                                                        data-ad-client=\"ca-pub-0348020478450287\"\r\n
+                                                        data-ad-slot=\"7922552518\"><\/ins>\r\n<script>\r\n(adsbygoogle
+                                                        = window.adsbygoogle || []).push({});\r\n<\/script><\/div>");
+                                                        } else if (Foundation.MediaQuery.current == "medium") {
+                                                        // Output the tablet ad code
+                                                        jQuery("#phgadunit_14726").html("<div id=
+                                                        \"phg-ad-g-m-table-medium-rectangle-1\"><!-- G M Table Medium Rectangle 1 -->
+                                                        \r\n<ins class=\"adsbygoogle\"\r\n
+                                                        style=\"display:inline-block;width:300px;height:250px\"\r\n
+                                                        data-ad-client=\"ca-pub-0348020478450287\"\r\n
+                                                        data-ad-slot=\"7922552518\"><\/ins>\r\n<script>\r\n(adsbygoogle
+                                                        = window.adsbygoogle || []).push({});\r\n<\/script><\/div>");
+                                                        } else {
+                                                        // Output the regular ad code
+                                                        jQuery("#phgadunit_14726").html("<div id=
+                                                        \"phg-ad-g-d-table-medium-rectangle-1\"><!-- G D Table Medium Rectangle 1 -->
+                                                        \r\n<ins class=\"adsbygoogle\"\r\n
+                                                        style=\"display:inline-block;width:300px;height:250px\"\r\n
+                                                        data-ad-client=\"ca-pub-0348020478450287\"\r\n
+                                                        data-ad-slot=\"9962871424\"><\/ins>\r\n
+                                                        <script>\r\n(adsbygoogle = window.adsbygoogle ||
+                                                            []).push({});\r\n<\/script><\/div>");
+                                                            }
+                                                            });
+    </script>
+    <div id="phgadunit_14726">
+     <div id="phg-ad-g-d-table-medium-rectangle-1">
+      <!-- G D Table Medium Rectangle 1 -->
+      <ins class="adsbygoogle" data-ad-client="ca-pub-0348020478450287" data-ad-slot="9962871424" style="display:inline-block;width:300px;height:250px">
+      </ins>
+      <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+     </div>
+    </div>
+   </td>
+  </tr>
+  <tr class="even">
+   <td>
+    16 iunie
+   </td>
+   <td>
+    duminică
+   </td>
+   <td>
+    <a class="summary url" href="https://publicholidays.ro/ro/pentecost/">
+     Rusalii
+    </a>
+   </td>
+  </tr>
+  <tr class="odd">
+   <td>
+    17 iunie
+   </td>
+   <td>
+    luni
+   </td>
+   <td>
+    <a class="summary url" href="https://publicholidays.ro/ro/pentecost/">
+     A doua zi de Rusalii
+    </a>
+   </td>
+  </tr>
+  <tr class="even">
+   <td>
+    15 august
+   </td>
+   <td>
+    joi
+   </td>
+   <td>
+    <a class="summary url" href="https://publicholidays.ro/ro/assumption-day/">
+     Adormirea Maicii Domnului
+    </a>
+   </td>
+  </tr>
+  <tr class="odd">
+   <td>
+    30 noiembrie
+   </td>
+   <td>
+    sâmbătă
+   </td>
+   <td>
+    <a class="summary url" href="https://publicholidays.ro/ro/feast-of-saint-andrew/">
+     Sfântul Andrei
+    </a>
+   </td>
+  </tr>
+  <tr class="even">
+   <td>
+    1 decembrie
+   </td>
+   <td>
+    duminică
+   </td>
+   <td>
+    <a class="summary url" href="https://publicholidays.ro/ro/great-union-day/">
+     Ziua Marii Uniri
+    </a>
+   </td>
+  </tr>
+  <tr class="odd">
+   <td>
+    25 decembrie
+   </td>
+   <td>
+    miercuri
+   </td>
+   <td>
+    <a class="summary url" href="https://publicholidays.ro/ro/christmas/">
+     Crăciunul
+    </a>
+   </td>
+  </tr>
+  <tr class="even">
+   <td>
+    26 decembrie
+   </td>
+   <td>
+    joi
+   </td>
+   <td>
+    <a class="summary url" href="https://publicholidays.ro/ro/christmas/">
+     A doua zi de Crăciunul
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td colspan="3">
+   </td>
+  </tr>
+ </tbody>
+</table>
+]
