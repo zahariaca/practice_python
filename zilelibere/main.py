@@ -3,13 +3,17 @@ import requests
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
 import json
+import os
 
-with open("./properties/months.json") as f:
+with open("./properties/properties.json") as f:
     properties = json.load(f)
 
-r = requests.get(f'{properties["url"]}{properties["year"]}-dates/')
-with open(f'./data/content-{properties["year"]}.html', 'w', encoding="utf-8") as f:
-    f.write(BeautifulSoup(r.content, 'html.parser').prettify())
+output_file = f'./data/content-{properties["year"]}.html'
+
+if not os.path.exists(output_file) or os.path.getsize(output_file) > 0:
+    r = requests.get(f'{properties["url"]}{properties["year"]}-dates/')
+    with open(output_file, 'w', encoding="utf-8") as f:
+        f.write(BeautifulSoup(r.content, 'html.parser').prettify())
 
 # cookies issue workaround, too many requests makes the website not accept others
 # html page can be copied from browser to this file
@@ -48,9 +52,9 @@ c = Calendar()
 for el in dates:
     e = Event()
     e.name = f'{el[2]}'
-    e.begin = f'2019{el[1]}{el[0]} 00:00:00'
+    e.begin = f'{properties["year"]}{el[1]}{el[0]} 00:00:00'
     e.make_all_day()
     c.events.add(e)
 
-with open('./data/zilelibere.ics', 'w', encoding="utf-8") as f:
+with open(f'./data/zilelibere-{properties["year"]}.ics', 'w', encoding="utf-8") as f:
     f.writelines(c)
